@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+python-telegram-bot
+selenium
+pdfplumber
+tabula-py
+pandas
+streamlit
