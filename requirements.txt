@@ -6,3 +6,4 @@ pdfplumber
 tabula-py
 pandas
 streamlit
+python-dotenv
